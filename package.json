@@ -1,0 +1,25 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "React application course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanisha9000/react-code.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Tanisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanisha9000/react-code/issues"
+  },
+  "homepage": "https://github.com/Tanisha9000/react-code#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
